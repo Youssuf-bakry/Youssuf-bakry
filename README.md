@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, my name is Yosef
 #### I am a Self-Taught Programmer
-![I am a Self-Taught Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Self-Taught Programmer](https://github.com/Youssuf-bakry/Youssuf-bakry/blob/main/Yosef_Banner.png)
 
 'm Practicing Javascript Right now as a front-end core language.
 I'm looking forward to show my knowledge & skills in a creative way.
