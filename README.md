@@ -25,7 +25,8 @@ I'm looking forward to show my knowledge & skills in a creative way.
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on My Own Portfolio 
-- 🌱 I’m currently building a __relatively big project__ in the J.shcmedtmann course. 
+- 🌱 I'v finished building a __relatively big project__ in the J.shcmedtmann course. 
+- 🌱 I’m currently getting more deep in JS through books and building many projects as well.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Youssuf-bakry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/youssuf-bakry-b4103663//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@BakryYoussuf)  
