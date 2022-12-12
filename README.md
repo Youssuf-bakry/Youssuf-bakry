@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 'm Practicing Javascript Right now as a front-end core language.
 I'm looking forward to show my knowledge & skills in a creative way.
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / React
 
 - 🔭 I’m currently working on My Own Portfolio 
 - 🌱 I'v finished building a __relatively big project__ in the J.shcmedtmann course. 
 - 🌱 I'v been getting more deep in JS through books and building many projects as well(since 6/2022)
-- 😍 I'm now Learning the REACT LIBRARY.
+- 😍 I'm now Learning NEXT JS.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Youssuf-bakry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/youssuf-bakry-b4103663//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@BakryYoussuf)  
