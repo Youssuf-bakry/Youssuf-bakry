@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 'm Practicing Javascript Right now as a front-end core language.
 I'm looking forward to show my knowledge & skills in a creative way.
 
-Skills: JS / HTML / CSS / React / Tailwind
+Skills: JS / HTML / CSS / React / Tailwind / Next
 
 - 🔭 I’m currently working on My Own Portfolio 
 - 🌱 I'v finished building a __relatively big project__ in the J.shcmedtmann course. 
